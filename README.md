@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Danial Ahmad Farid
 
-Senior Programmer Analyst with 6+ years of experience building secure, scalable web and mobile applications for government and enterprise clients.
+Senior Programmer Analyst with 7 years of experience building secure, scalable web and mobile applications for government and enterprise clients.
 
 ## About Me
 - Based in Shah Alam, Selangor, Malaysia
