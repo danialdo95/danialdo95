@@ -34,7 +34,7 @@ Senior Software Engineer with 7 years of experience building secure, scalable we
 
 ## Selected Experience
 ### Senior Programmer Analyst — Inphosoft Malaysia Sdn Bhd
-**Sep 2019 - Present**
+**Sep 2019 - Dec 2025**
 - Built and enhanced government-facing systems across Singapore agencies.
 - Developed microservice APIs and admin portals for web and mobile ecosystems.
 - Delivered and maintained React Native apps with improved reliability, performance, and localization.
@@ -60,7 +60,6 @@ Key project domains:
 ## Education
 - **Master of Computer Science (Ongoing, 2025-2027)** — Universiti Teknologi MARA (UiTM)
 - **Bachelor of Information Technology (Hons.), Information System Engineering** — UiTM (CGPA: 3.50/4.00)
-- **Diploma in Computer Science** — UiTM (CGPA: 3.26/4.00)
 
 ## Languages
 - English (Professional Working Proficiency)
