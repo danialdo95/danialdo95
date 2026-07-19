@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danialdo95?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-danial-ahmad-farid/)
-[![Email](https://img.shields.io/badge/Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danialdev95@gmail.com)
+[![Email](./assets/email-badge.svg)](mailto:danialdev95@gmail.com)
 
 </div>
 
@@ -71,7 +71,7 @@ I am a senior software engineer who enjoys turning complex requirements into sec
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=flat-square)
+![Microservices](./assets/microservices-badge.svg)
 
 **Data, quality & delivery**
 
