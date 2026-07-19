@@ -1,73 +1,108 @@
-# Hi, I'm Muhammad Danial Ahmad Farid
+<div align="center">
 
-Senior Software Engineer with 7 years of experience building secure, scalable web and mobile applications for government and enterprise clients.
+# Muhammad Danial Ahmad Farid
 
-## About Me
-- Based in Shah Alam, Selangor, Malaysia
-- Currently at **Inphosoft Malaysia Sdn Bhd**
-- Focused on backend services, cross-platform mobile apps, and maintainable system design
+### I build reliable products across web, backend, and mobile.
 
-## Technologies I Use
+[![Portfolio](https://img.shields.io/badge/Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danialdo95?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-danial-ahmad-farid/)
+[![Email](https://img.shields.io/badge/Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danialdev95@gmail.com)
 
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge)
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
-
-## Selected Experience
-### Senior Programmer Analyst — Inphosoft Malaysia Sdn Bhd
-**Sep 2019 - Dec 2025**
-- Built and enhanced government-facing systems across Singapore agencies.
-- Developed microservice APIs and admin portals for web and mobile ecosystems.
-- Delivered and maintained React Native apps with improved reliability, performance, and localization.
-
-Key project domains:
-- MOM SGWorkPass mobile app
-- SPS SHARE web and mobile platform
-- BCA PSPC and MyBCA e-services
-- JTC RAFA support and maintenance
-- NACLI Strong Red Dot mobile app
-
-### System Engineer — Infopro Sdn Bhd
-**Nov 2018 - Jun 2019**
-- Contributed to digital banking platform development.
-- Implemented Java Spring APIs with OAuth2 + Oracle integration.
-- Worked on WebSocket/RabbitMQ integrations and RHEL/JBoss deployments.
-
-### Application Developer — Fiction Labs Sdn Bhd
-**Feb 2018 - Aug 2018**
-- Built web and backend features for reward systems.
-- Contributed to VR simulations using Unity and HTC Vive.
-
-## Education
-- **Master of Computer Science (Ongoing, 2025-2027)** — Universiti Teknologi MARA (UiTM)
-- **Bachelor of Information Technology (Hons.), Information System Engineering** — UiTM (CGPA: 3.50/4.00)
-
-## Languages
-- English (Professional Working Proficiency)
-- Bahasa Malaysia (Native Proficiency)
-
-## Contact
-- Email: [danialdev95@gmail.com](mailto:danialdev95@gmail.com)
-- LinkedIn: [muhammad-danial-ahmad-farid](https://www.linkedin.com/in/muhammad-danial-ahmad-farid/)
+</div>
 
 ---
-Open to collaborating on backend systems, cross-platform mobile applications, and scalable service-oriented architectures.
+
+## What I build
+
+I am a senior software engineer who enjoys turning complex requirements into secure, maintainable software.
+
+- **Full-stack products** — modern React and Next.js experiences backed by typed APIs and relational data
+- **Backend systems** — REST APIs, microservices, authentication, integrations, and database-driven workflows
+- **Mobile applications** — cross-platform React Native apps with a focus on performance and reliability
+- **Delivery foundations** — automated testing, Docker, CI/CD, and production-minded system design
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌸 <a href="https://github.com/danialdo95/bloomandbrew">Bloom & Brew Social</a></h3>
+      <p>A full-stack social platform for café, coffee, florist, and bouquet communities—with feeds, follows, moderation, content discovery, trend analysis, and creator planning.</p>
+      <p><strong>Next.js · React · TypeScript · PostgreSQL · Prisma · OAuth</strong></p>
+      <a href="https://bloomandbrewsocial.vercel.app">Live demo →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📍 <a href="https://github.com/danialdo95/Historical-Places-ReactNative-App">Historical Places</a></h3>
+      <p>A cross-platform mobile project exploring historical-place discovery and modern native application development.</p>
+      <p><strong>React Native · TypeScript · Android · iOS</strong></p>
+      <a href="https://github.com/danialdo95/Historical-Places-ReactNative-App">View source →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/danialdo95/facial-recognition-flask">Facial Recognition</a></h3>
+      <p>A Flask-based experiment that brings facial-recognition capabilities into a lightweight web application.</p>
+      <p><strong>Python · Flask · Computer Vision</strong></p>
+      <a href="https://github.com/danialdo95/facial-recognition-flask">View source →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/danialdo95/Delareez-Restaurant-Self-Ordering-App">Restaurant Self-Ordering</a></h3>
+      <p>An Android self-ordering application that uses NFC tags to connect the physical restaurant experience with a mobile ordering flow.</p>
+      <p><strong>Java · Android · NFC</strong></p>
+      <a href="https://github.com/danialdo95/Delareez-Restaurant-Self-Ordering-App">View source →</a>
+    </td>
+  </tr>
+</table>
+
+## Technical toolbox
+
+**Frontend & mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & architecture**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=flat-square)
+
+**Data, quality & delivery**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+## GitHub at a glance
+
+<div align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=danialdo95&show_icons=true&hide_border=true&theme=transparent" alt="Muhammad Danial's GitHub statistics" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=danialdo95&layout=donut&hide_border=true&theme=transparent&exclude_repo=danialdo95.github.io,PAWEM-4.5,spring-mvc-tutorial-udemy,Node.js-Udemy-Complete-Guide" alt="Most-used languages across selected repositories" />
+</div>
+
+> The language chart reflects code in selected public repositories—not proficiency.
+
+## Currently exploring
+
+- Building richer, production-ready full-stack products with **Next.js and PostgreSQL**
+- Designing **scalable service boundaries** and dependable integration workflows
+- Applying **AI-assisted features** where they create clear value for users
+
+---
+
+<div align="center">
+
+Based in Shah Alam, Malaysia · Open to collaborating on useful, thoughtfully engineered products.
+
+[View all repositories](https://github.com/danialdo95?tab=repositories)
+
+</div>
